@@ -9,7 +9,7 @@ flake8 = "*"
 pep8 = "*"
 
 [packages]
-django = "==2.1"
+django = "==2.1.5"
 pymysql = "*"
 
 [requires]
