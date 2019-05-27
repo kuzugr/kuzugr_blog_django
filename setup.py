@@ -3,7 +3,6 @@ from setuptools import setup, find_packages
 requires = [
     "pymysql",
     "django",
-    "django-bootstrap4",
 ]
 
 setup(
